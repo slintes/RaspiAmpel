@@ -1,6 +1,7 @@
-Raspberry Pi + some electronic parts + Java + Pi4J
+Library for accessing 3 LEDs from Java on a Raspberry Pi
 
-see http://www.youtube.com/watch?v=Ydytk35zhPs
+see it in action at http://www.youtube.com/watch?v=Ydytk35zhPs
+and https://github.com/slintes/RaspiFunWithAmpelAndMatrix
 
 Links:
 
