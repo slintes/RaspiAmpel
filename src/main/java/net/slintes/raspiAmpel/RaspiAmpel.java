@@ -24,7 +24,7 @@ public class RaspiAmpel implements Ampel {
 
 
     /**
-     * Creates an "RaspiAmpel" (traffic light)
+     * Creates an "Ampel" (traffic light)
      * Pin numbers have to match Pi4J GPIO pin numbers,
      * see http://pi4j.com/usage.html#Pin_Numbering
      *
