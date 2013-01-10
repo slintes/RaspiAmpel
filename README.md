@@ -1,7 +1,8 @@
 Library for accessing 3 LEDs from Java on a Raspberry Pi
 
-see it in action at http://www.youtube.com/watch?v=Ydytk35zhPs
-and https://github.com/slintes/RaspiFunWithAmpelAndMatrix
+see it in action at 
+* http://www.youtube.com/watch?v=Ydytk35zhPs and https://github.com/slintes/RaspiFunWithAmpelAndMatrix
+* http://www.youtube.com/watch?v=g_Mn1BiplmY and https://github.com/slintes/RaspiDroid
 
 Links:
 
